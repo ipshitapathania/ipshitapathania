@@ -4,8 +4,6 @@
 <img align="right" alt="coding girl" width="350" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
 
 
-- 🔭 I’m currently working on **AI-Virtual Mouse**
-
 - 🌱 I’m currently learning **Data structures & algorithms, ML**
 
 - 📫 How to reach me **ipshitapathania2@gmail.com**
